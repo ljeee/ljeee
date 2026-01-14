@@ -1,16 +1,59 @@
-## Hi there 👋
+# LJEe!
 
-<!--
-**ljeee/ljeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced full-stack developer specializing in TypeScript, NestJS, and React ecosystems. I focus on building scalable backend architectures with TypeORM and PostgreSQL, creating secure applications with JWT authentication, and developing end-to-end solutions for various domains like employability, Q&A platforms, ticketing systems, and inventory management.
 
-Here are some ideas to get you started:
+## 🚀 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+
+- TypeScript
+- JavaScript
+- SQL
+
+### Frameworks & Libraries
+
+- **Backend**: NestJS, Express.js
+- **Frontend**: React, React Native
+- **Mobile**: Expo
+
+### Databases
+
+- PostgreSQL
+
+### Security & Authentication
+
+- JWT
+- bcrypt
+- Role-Based Access Control (RBAC)
+
+### APIs & Integrations
+
+- REST APIs
+- Swagger
+- HuggingFace API
+- Cloudinary
+
+### Tools & Technologies
+
+- Vite
+- Docker
+- Jest
+- Git
+
+
+## 🌱 Currently Learning
+- Advanced performance optimization techniques
+- New integrations and cloud services
+- Rust and Tauri
+- Rails
+- Pyton, THON, Fastapi
+- Websokects
+
+## 🤝 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/ljeferr)
+- 📧 [Email](ljeferr@gmaik.com)
+- 🐙 [GitHub](https://github.com/ljeee)
+
+---
+
+⭐️ From [ljeee](https://github.com/ljeee)
