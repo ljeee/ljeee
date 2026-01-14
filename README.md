@@ -1,7 +1,7 @@
 # LJEe!
 
-<img align="right" width="25%" src="./img/YORU.jpg" alt="Yoru" style="border-radius: 10px; margin-bottom: 10px;">
-<img align="right" width="25%" src="./img/BMO.jpg" alt="BMO" style="border-radius: 10px;">
+<img align="right" width="200" height="200" src="./img/YORU.jpg" alt="Yoru" style="border-radius: 10px; margin-bottom: 10px;">
+<img align="right" width="200" height="200" src="./img/BMO.jpg" alt="BMO" style="border-radius: 10px;">
 
 I'm an experienced full-stack developer specializing in TypeScript, NestJS, and React ecosystems. I focus on building scalable backend architectures with TypeORM and PostgreSQL, creating secure applications with JWT authentication, and developing end-to-end solutions for various domains like employability, Q&A platforms, ticketing systems, and inventory management.
 
